@@ -13,7 +13,7 @@
 
 ### Dados 🎲
 
-Os dados estão disponíveis [aqui]!(https://github.com/alura-tech/pos-data-science-BI/tree/dados)
+Os dados estão disponíveis [aqui!](https://github.com/alura-tech/pos-data-science-BI/tree/dados)
 
 Vamos lá?!🚀 
 <p align="left"><img src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif'</p>
