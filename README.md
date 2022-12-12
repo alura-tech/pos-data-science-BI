@@ -1,6 +1,6 @@
 ## Pós-Graduação em Data Science:
 
-### BI! 🤑
+### Business Intelligence com Power BI
 
 ### Notebooks 📓
 
